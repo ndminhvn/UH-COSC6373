@@ -1,0 +1,12 @@
+Project
+Quiz
+Homeworks
+
+.DS_Store
+
+# Python
+__pycache__
+
+# Model files
+*.weights
+*.h5
